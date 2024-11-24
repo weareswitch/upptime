@@ -9,8 +9,45 @@ sites:
     url: https://www.affinitywater.co.uk
   - name: JCT
     url: https://www.jctltd.co.uk
+  - name: JCT Corporate 
+    url: https://corporate.jctltd.co.uk
+  - name: JCT YPG
+    url: https://ypg.jctltd.co.uk    
   - name: JCT dev
     url: https://jct.switch-dev.co.uk
+  - name: Build UK
+    url: https://builduk.org
+  - name: SBP
+    url: https://sbp-cert.org
+  - name: Open Doors
+    url: https://opendoors.construction
+  - name: Middle Level
+    url: https://middlelevel.gov.uk
+  - name: KitAid
+    url: https://kitaid.net
+  - name: McDermotts
+    url: https://www.mcdermotts.co.uk
+  - name: INCA
+    url: https://www.inca-ltd.org.uk
+  - name: Mila
+    url: https://www.mila.co.uk
+  - name: Mila Ireland
+    url: https://www.mila.ie
+  - name: Mila Ireland
+    url: https://www.mila.ie
+  - name: Withers & Rogers
+    url: https://www.withersrogers.com
+  - name: Withers & Rogers France
+    url: https://www.withersrogers.fr
+  - name: Withers & Rogers Germany
+    url: https://www.withersrogers.de
+  - name: Withers & Rogers Renewals
+    url: https://www.wrrenewals.com
+  - name: Screen4
+    url: https://screen4academy.org
+  - name: Balls & Boots
+    url: https://ballsandboots.org
+    
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
