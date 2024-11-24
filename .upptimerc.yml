@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Switch
     url: https://weareswitch.com
+  - name: Affinity Water
+    url: https://www.affinitywater.co.uk
   - name: JCT dev
     url: https://jct.switch-dev.co.uk
     
