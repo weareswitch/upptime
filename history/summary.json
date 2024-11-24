@@ -22,19 +22,19 @@
     "url": "https://jct.switch-dev.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jct.switch-dev.co.uk.ico",
     "slug": "jct-dev",
-    "status": "down",
-    "uptime": "73.32%",
-    "uptimeDay": "73.32%",
-    "uptimeWeek": "73.32%",
-    "uptimeMonth": "73.32%",
-    "uptimeYear": "73.32%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "5.44%",
+    "uptimeDay": "5.44%",
+    "uptimeWeek": "5.44%",
+    "uptimeMonth": "5.44%",
+    "uptimeYear": "5.44%",
+    "time": 4250,
+    "timeDay": 4250,
+    "timeWeek": 4250,
+    "timeMonth": 4250,
+    "timeYear": 4250,
     "dailyMinutesDown": {
-      "2024-11-24": 0
+      "2024-11-24": 10
     }
   }
 ]
