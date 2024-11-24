@@ -7,6 +7,8 @@ sites:
     url: https://weareswitch.com
   - name: Affinity Water
     url: https://www.affinitywater.co.uk
+  - name: JCT
+    url: https://www.jctltd.co.uk
   - name: JCT dev
     url: https://jct.switch-dev.co.uk
     
