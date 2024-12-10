@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 636,
-    "timeWeek": 540,
+    "timeWeek": 550,
     "timeMonth": 544,
     "timeYear": 544,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 756,
     "timeDay": 859,
-    "timeWeek": 751,
+    "timeWeek": 759,
     "timeMonth": 756,
     "timeYear": 756,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 928,
     "timeDay": 1096,
-    "timeWeek": 966,
+    "timeWeek": 987,
     "timeMonth": 928,
     "timeYear": 928,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 574,
     "timeDay": 657,
-    "timeWeek": 572,
+    "timeWeek": 596,
     "timeMonth": 574,
     "timeYear": 574,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 649,
     "timeDay": 728,
-    "timeWeek": 674,
+    "timeWeek": 694,
     "timeMonth": 649,
     "timeYear": 649,
     "dailyMinutesDown": {}
@@ -94,15 +94,15 @@
     "url": "https://jct.switch-dev.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jct.switch-dev.co.uk.ico",
     "slug": "jct-dev",
-    "status": "up",
-    "uptime": "56.84%",
-    "uptimeDay": "45.27%",
-    "uptimeWeek": "58.46%",
-    "uptimeMonth": "56.84%",
-    "uptimeYear": "56.84%",
+    "status": "down",
+    "uptime": "58.00%",
+    "uptimeDay": "45.30%",
+    "uptimeWeek": "58.51%",
+    "uptimeMonth": "58.00%",
+    "uptimeYear": "58.00%",
     "time": 3433,
     "timeDay": 8628,
-    "timeWeek": 3871,
+    "timeWeek": 4175,
     "timeMonth": 3433,
     "timeYear": 3433,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "uptimeYear": "100.00%",
     "time": 703,
     "timeDay": 849,
-    "timeWeek": 726,
+    "timeWeek": 744,
     "timeMonth": 703,
     "timeYear": 703,
     "dailyMinutesDown": {}
@@ -154,7 +154,7 @@
     "uptimeYear": "100.00%",
     "time": 790,
     "timeDay": 972,
-    "timeWeek": 832,
+    "timeWeek": 853,
     "timeMonth": 790,
     "timeYear": 790,
     "dailyMinutesDown": {}
@@ -172,7 +172,7 @@
     "uptimeYear": "100.00%",
     "time": 686,
     "timeDay": 875,
-    "timeWeek": 715,
+    "timeWeek": 740,
     "timeMonth": 686,
     "timeYear": 686,
     "dailyMinutesDown": {}
@@ -190,7 +190,7 @@
     "uptimeYear": "100.00%",
     "time": 838,
     "timeDay": 949,
-    "timeWeek": 893,
+    "timeWeek": 913,
     "timeMonth": 838,
     "timeYear": 838,
     "dailyMinutesDown": {}
@@ -208,7 +208,7 @@
     "uptimeYear": "100.00%",
     "time": 728,
     "timeDay": 921,
-    "timeWeek": 754,
+    "timeWeek": 777,
     "timeMonth": 728,
     "timeYear": 728,
     "dailyMinutesDown": {}
@@ -226,7 +226,7 @@
     "uptimeYear": "100.00%",
     "time": 835,
     "timeDay": 946,
-    "timeWeek": 869,
+    "timeWeek": 884,
     "timeMonth": 835,
     "timeYear": 835,
     "dailyMinutesDown": {}
@@ -237,14 +237,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.inca-ltd.org.uk.ico",
     "slug": "inca",
     "status": "up",
-    "uptime": "96.09%",
+    "uptime": "96.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.09%",
-    "uptimeYear": "96.09%",
+    "uptimeMonth": "96.20%",
+    "uptimeYear": "96.20%",
     "time": 721,
     "timeDay": 147,
-    "timeWeek": 262,
+    "timeWeek": 271,
     "timeMonth": 721,
     "timeYear": 721,
     "dailyMinutesDown": {
@@ -265,7 +265,7 @@
     "uptimeYear": "100.00%",
     "time": 729,
     "timeDay": 895,
-    "timeWeek": 733,
+    "timeWeek": 753,
     "timeMonth": 729,
     "timeYear": 729,
     "dailyMinutesDown": {}
@@ -283,7 +283,7 @@
     "uptimeYear": "100.00%",
     "time": 458,
     "timeDay": 680,
-    "timeWeek": 601,
+    "timeWeek": 616,
     "timeMonth": 458,
     "timeYear": 458,
     "dailyMinutesDown": {}
@@ -301,7 +301,7 @@
     "uptimeYear": "100.00%",
     "time": 1471,
     "timeDay": 1692,
-    "timeWeek": 1545,
+    "timeWeek": 1573,
     "timeMonth": 1471,
     "timeYear": 1471,
     "dailyMinutesDown": {}
@@ -319,7 +319,7 @@
     "uptimeYear": "100.00%",
     "time": 1579,
     "timeDay": 1654,
-    "timeWeek": 1628,
+    "timeWeek": 1603,
     "timeMonth": 1579,
     "timeYear": 1579,
     "dailyMinutesDown": {}
@@ -337,7 +337,7 @@
     "uptimeYear": "100.00%",
     "time": 1230,
     "timeDay": 1345,
-    "timeWeek": 1251,
+    "timeWeek": 1268,
     "timeMonth": 1230,
     "timeYear": 1230,
     "dailyMinutesDown": {}
@@ -355,7 +355,7 @@
     "uptimeYear": "100.00%",
     "time": 1402,
     "timeDay": 1418,
-    "timeWeek": 1351,
+    "timeWeek": 1359,
     "timeMonth": 1402,
     "timeYear": 1402,
     "dailyMinutesDown": {}
@@ -373,7 +373,7 @@
     "uptimeYear": "100.00%",
     "time": 675,
     "timeDay": 870,
-    "timeWeek": 696,
+    "timeWeek": 710,
     "timeMonth": 675,
     "timeYear": 675,
     "dailyMinutesDown": {}
@@ -391,7 +391,7 @@
     "uptimeYear": "100.00%",
     "time": 361,
     "timeDay": 434,
-    "timeWeek": 366,
+    "timeWeek": 364,
     "timeMonth": 361,
     "timeYear": 361,
     "dailyMinutesDown": {}
@@ -409,7 +409,7 @@
     "uptimeYear": "100.00%",
     "time": 483,
     "timeDay": 646,
-    "timeWeek": 495,
+    "timeWeek": 512,
     "timeMonth": 483,
     "timeYear": 483,
     "dailyMinutesDown": {}
