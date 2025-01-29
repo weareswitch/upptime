@@ -99,14 +99,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/jct.switch-dev.co.uk.ico",
     "slug": "jct-dev",
     "status": "up",
-    "uptime": "47.95%",
-    "uptimeDay": "60.92%",
-    "uptimeWeek": "34.83%",
-    "uptimeMonth": "34.70%",
-    "uptimeYear": "47.95%",
+    "uptime": "48.05%",
+    "uptimeDay": "70.08%",
+    "uptimeWeek": "36.14%",
+    "uptimeMonth": "35.11%",
+    "uptimeYear": "48.05%",
     "time": 5462,
-    "timeDay": 5974,
-    "timeWeek": 7430,
+    "timeDay": 5145,
+    "timeWeek": 7158,
     "timeMonth": 7799,
     "timeYear": 5462,
     "dailyMinutesDown": {
@@ -180,19 +180,19 @@
     "url": "https://builduk.org",
     "icon": "https://icons.duckduckgo.com/ip3/builduk.org.ico",
     "slug": "build-uk",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 684,
     "timeDay": 746,
     "timeWeek": 669,
     "timeMonth": 678,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-01-29": 8
+      "2025-01-29": 3
     }
   },
   {
@@ -200,18 +200,20 @@
     "url": "https://sbp-cert.org",
     "icon": "https://icons.duckduckgo.com/ip3/sbp-cert.org.ico",
     "slug": "sbp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 767,
     "timeDay": 958,
     "timeWeek": 776,
     "timeMonth": 769,
     "timeYear": 767,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 3
+    }
   },
   {
     "name": "Open Doors",
@@ -236,10 +238,10 @@
     "url": "https://middlelevel.gov.uk",
     "icon": "https://icons.duckduckgo.com/ip3/middlelevel.gov.uk.ico",
     "slug": "middle-level",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 847,
@@ -247,17 +249,19 @@
     "timeWeek": 815,
     "timeMonth": 865,
     "timeYear": 847,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 2
+    }
   },
   {
     "name": "KitAid",
     "url": "https://kitaid.net",
     "icon": "https://icons.duckduckgo.com/ip3/kitaid.net.ico",
     "slug": "kit-aid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 710,
@@ -265,17 +269,19 @@
     "timeWeek": 674,
     "timeMonth": 700,
     "timeYear": 710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 2
+    }
   },
   {
     "name": "McDermotts",
     "url": "https://www.mcdermotts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 818,
@@ -283,16 +289,18 @@
     "timeWeek": 816,
     "timeMonth": 814,
     "timeYear": 818,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "INCA",
     "url": "https://www.inca-ltd.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.inca-ltd.org.uk.ico",
     "slug": "inca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
@@ -302,6 +310,7 @@
     "timeMonth": 315,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2024-11-26": 625,
       "2024-11-25": 239
     }
