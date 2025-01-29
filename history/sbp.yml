@@ -1,7 +1,7 @@
 url: https://sbp-cert.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-29T08:56:34.862Z
+status: up
+code: 200
+responseTime: 682
+lastUpdated: 2025-01-29T09:07:15.048Z
 startTime: 2024-11-24T23:59:20.580Z
 generator: Upptime <https://github.com/upptime/upptime>
