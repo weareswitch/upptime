@@ -98,12 +98,12 @@
     "url": "https://jct.switch-dev.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jct.switch-dev.co.uk.ico",
     "slug": "jct-dev",
-    "status": "up",
-    "uptime": "48.06%",
-    "uptimeDay": "70.08%",
+    "status": "down",
+    "uptime": "48.38%",
+    "uptimeDay": "70.53%",
     "uptimeWeek": "36.14%",
-    "uptimeMonth": "35.13%",
-    "uptimeYear": "48.06%",
+    "uptimeMonth": "36.50%",
+    "uptimeYear": "48.38%",
     "time": 5462,
     "timeDay": 5145,
     "timeWeek": 7158,
@@ -181,19 +181,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/builduk.org.ico",
     "slug": "build-uk",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 683,
     "timeDay": 699,
     "timeWeek": 661,
     "timeMonth": 675,
     "timeYear": 683,
-    "dailyMinutesDown": {
-      "2025-01-29": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SBP",
@@ -201,19 +199,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbp-cert.org.ico",
     "slug": "sbp",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 766,
     "timeDay": 820,
     "timeWeek": 764,
     "timeMonth": 767,
     "timeYear": 766,
-    "dailyMinutesDown": {
-      "2025-01-29": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Open Doors",
@@ -239,19 +235,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/middlelevel.gov.uk.ico",
     "slug": "middle-level",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 844,
     "timeDay": 941,
     "timeWeek": 793,
     "timeMonth": 858,
     "timeYear": 844,
-    "dailyMinutesDown": {
-      "2025-01-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KitAid",
@@ -259,19 +253,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kitaid.net.ico",
     "slug": "kit-aid",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 707,
     "timeDay": 722,
     "timeWeek": 657,
     "timeMonth": 695,
     "timeYear": 707,
-    "dailyMinutesDown": {
-      "2025-01-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "McDermotts",
@@ -279,19 +271,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 817,
     "timeDay": 893,
     "timeWeek": 807,
     "timeMonth": 812,
     "timeYear": 817,
-    "dailyMinutesDown": {
-      "2025-01-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "INCA",
@@ -299,18 +289,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.inca-ltd.org.uk.ico",
     "slug": "inca",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.07%",
+    "uptime": "99.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.09%",
     "time": 434,
     "timeDay": 323,
     "timeWeek": 282,
     "timeMonth": 316,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2025-01-29": 9,
       "2024-11-26": 625,
       "2024-11-25": 239
     }
