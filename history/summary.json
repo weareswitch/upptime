@@ -29,7 +29,7 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
     "time": 751,
-    "timeDay": 661,
+    "timeDay": 492,
     "timeWeek": 735,
     "timeMonth": 788,
     "timeYear": 751,
@@ -100,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jct.switch-dev.co.uk.ico",
     "slug": "jct-dev",
     "status": "up",
-    "uptime": "50.56%",
+    "uptime": "50.76%",
     "uptimeDay": "45.48%",
     "uptimeWeek": "49.57%",
     "uptimeMonth": "51.65%",
-    "uptimeYear": "50.56%",
+    "uptimeYear": "50.76%",
     "time": 5599,
     "timeDay": 11593,
     "timeWeek": 8102,
@@ -369,10 +369,10 @@
     "url": "https://www.withersrogers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.com.ico",
     "slug": "withers-and-rogers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1415,
@@ -380,17 +380,19 @@
     "timeWeek": 1366,
     "timeMonth": 1352,
     "timeYear": 1415,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 2
+    }
   },
   {
     "name": "Withers & Rogers France",
     "url": "https://www.withersrogers.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.fr.ico",
     "slug": "withers-and-rogers-france",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1574,
@@ -398,17 +400,19 @@
     "timeWeek": 1514,
     "timeMonth": 1500,
     "timeYear": 1574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 2
+    }
   },
   {
     "name": "Withers & Rogers Germany",
     "url": "https://www.withersrogers.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.de.ico",
     "slug": "withers-and-rogers-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1290,
@@ -416,16 +420,18 @@
     "timeWeek": 1247,
     "timeMonth": 1248,
     "timeYear": 1290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 1
+    }
   },
   {
     "name": "Withers & Rogers Renewals",
     "url": "https://www.wrrenewals.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wrrenewals.com.ico",
     "slug": "withers-and-rogers-renewals",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -434,7 +440,9 @@
     "timeWeek": 2210,
     "timeMonth": 2342,
     "timeYear": 1719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "Screen4",
