@@ -29,8 +29,8 @@
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.73%",
     "time": 703,
-    "timeDay": 713,
-    "timeWeek": 689,
+    "timeDay": 550,
+    "timeWeek": 703,
     "timeMonth": 672,
     "timeYear": 703,
     "dailyMinutesDown": {
@@ -117,12 +117,12 @@
     "url": "https://jct.switch-dev.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/jct.switch-dev.co.uk.ico",
     "slug": "jct-dev",
-    "status": "up",
-    "uptime": "51.64%",
-    "uptimeDay": "0.03%",
+    "status": "down",
+    "uptime": "51.93%",
+    "uptimeDay": "44.93%",
     "uptimeWeek": "41.38%",
-    "uptimeMonth": "40.85%",
-    "uptimeYear": "51.64%",
+    "uptimeMonth": "40.84%",
+    "uptimeYear": "51.93%",
     "time": 7001,
     "timeDay": 9559,
     "timeWeek": 9412,
@@ -260,8 +260,7 @@
       "2024-12-18": 609,
       "2024-12-17": 290,
       "2024-12-16": 270,
-      "2024-12-13": 81,
-      "2024-12-12": 288
+      "2024-12-13": 46
     }
   },
   {
