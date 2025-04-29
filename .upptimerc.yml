@@ -12,9 +12,7 @@ sites:
   - name: JCT Corporate 
     url: https://corporate.jctltd.co.uk
   - name: JCT YPG
-    url: https://ypg.jctltd.co.uk    
-  - name: JCT dev
-    url: https://jct.switch-dev.co.uk
+    url: https://ypg.jctltd.co.uk
   - name: Build UK
     url: https://builduk.org
   - name: SBP
