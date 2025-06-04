@@ -63,19 +63,19 @@
     "url": "https://www.jctltd.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.jctltd.co.uk.ico",
     "slug": "jct",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.96%",
     "time": 933,
-    "timeDay": 835,
-    "timeWeek": 914,
-    "timeMonth": 912,
+    "timeDay": 899,
+    "timeWeek": 920,
+    "timeMonth": 914,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2025-06-04": 1
+      "2025-06-04": 114
     }
   },
   {
