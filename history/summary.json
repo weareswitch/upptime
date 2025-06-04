@@ -103,9 +103,9 @@
     "url": "https://ypg.jctltd.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/ypg.jctltd.co.uk.ico",
     "slug": "jct-ypg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +114,9 @@
     "timeWeek": 812,
     "timeMonth": 742,
     "timeYear": 725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-04": 0
+    }
   },
   {
     "name": "Build UK",
