@@ -377,19 +377,19 @@
     "url": "https://screen4academy.org",
     "icon": "https://icons.duckduckgo.com/ip3/screen4academy.org.ico",
     "slug": "screen4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 598,
-    "timeWeek": 716,
-    "timeMonth": 734,
-    "timeYear": 696,
+    "time": 712,
+    "timeDay": 1709,
+    "timeWeek": 1074,
+    "timeMonth": 831,
+    "timeYear": 712,
     "dailyMinutesDown": {
-      "2025-06-23": 0
+      "2025-06-23": 9
     }
   },
   {
