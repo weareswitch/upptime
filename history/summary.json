@@ -377,18 +377,20 @@
     "url": "https://screen4academy.org",
     "icon": "https://icons.duckduckgo.com/ip3/screen4academy.org.ico",
     "slug": "screen4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 742,
-    "timeWeek": 754,
-    "timeMonth": 743,
-    "timeYear": 698,
-    "dailyMinutesDown": {}
+    "time": 696,
+    "timeDay": 598,
+    "timeWeek": 716,
+    "timeMonth": 734,
+    "timeYear": 696,
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   },
   {
     "name": "Balls & Boots",
