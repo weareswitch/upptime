@@ -142,18 +142,19 @@
     "url": "https://sbp-cert.org",
     "icon": "https://icons.duckduckgo.com/ip3/sbp-cert.org.ico",
     "slug": "sbp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
-    "time": 808,
-    "timeDay": 1122,
-    "timeWeek": 1127,
-    "timeMonth": 911,
-    "timeYear": 808,
+    "time": 807,
+    "timeDay": 838,
+    "timeWeek": 1064,
+    "timeMonth": 897,
+    "timeYear": 807,
     "dailyMinutesDown": {
+      "2025-07-02": 0,
       "2025-07-01": 16,
       "2025-06-23": 50
     }
@@ -414,17 +415,19 @@
     "url": "https://www.twistub.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.twistub.co.uk.ico",
     "slug": "twistub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
+    "time": 476,
     "timeDay": 363,
-    "timeWeek": 419,
-    "timeMonth": 472,
-    "timeYear": 477,
-    "dailyMinutesDown": {}
+    "timeWeek": 412,
+    "timeMonth": 468,
+    "timeYear": 476,
+    "dailyMinutesDown": {
+      "2025-07-02": 0
+    }
   }
 ]
