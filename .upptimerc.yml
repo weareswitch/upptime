@@ -15,8 +15,6 @@ sites:
     url: https://ypg.jctltd.co.uk
   - name: Build UK
     url: https://builduk.org
-  - name: SBP
-    url: https://sbp-cert.org
   - name: Open Doors
     url: https://opendoors.construction
   - name: Middle Level
