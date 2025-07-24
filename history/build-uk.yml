@@ -1,7 +1,7 @@
 url: https://builduk.org
-status: up
-code: 200
-responseTime: 539
-lastUpdated: 2025-07-23T23:02:34.395Z
+status: down
+code: 401
+responseTime: 1293
+lastUpdated: 2025-07-24T21:33:08.181Z
 startTime: 2024-11-24T23:59:19.586Z
 generator: Upptime <https://github.com/upptime/upptime>
