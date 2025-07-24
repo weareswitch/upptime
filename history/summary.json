@@ -124,19 +124,19 @@
     "url": "https://builduk.org",
     "icon": "https://icons.duckduckgo.com/ip3/builduk.org.ico",
     "slug": "build-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 916,
-    "timeWeek": 799,
-    "timeMonth": 725,
-    "timeYear": 694,
+    "time": 693,
+    "timeDay": 807,
+    "timeWeek": 776,
+    "timeMonth": 721,
+    "timeYear": 693,
     "dailyMinutesDown": {
-      "2025-07-24": 0
+      "2025-07-24": 10
     }
   },
   {
