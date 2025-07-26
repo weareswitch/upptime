@@ -393,19 +393,19 @@
     "url": "https://www.twistub.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.twistub.co.uk.ico",
     "slug": "twistub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 477,
-    "timeDay": 322,
-    "timeWeek": 462,
+    "timeDay": 379,
+    "timeWeek": 465,
     "timeMonth": 470,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2025-07-26": 0
+      "2025-07-26": 26
     }
   }
 ]
