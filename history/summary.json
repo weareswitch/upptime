@@ -124,9 +124,9 @@
     "url": "https://builduk.org",
     "icon": "https://icons.duckduckgo.com/ip3/builduk.org.ico",
     "slug": "build-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,7 +135,9 @@
     "timeWeek": 691,
     "timeMonth": 733,
     "timeYear": 694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-05": 0
+    }
   },
   {
     "name": "Open Doors",
@@ -396,12 +398,12 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 476,
     "timeDay": 356,
-    "timeWeek": 495,
+    "timeWeek": 476,
     "timeMonth": 476,
     "timeYear": 476,
     "dailyMinutesDown": {
