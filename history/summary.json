@@ -180,10 +180,10 @@
     "url": "https://kitaid.net",
     "icon": "https://icons.duckduckgo.com/ip3/kitaid.net.ico",
     "slug": "kit-aid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 733,
@@ -191,16 +191,18 @@
     "timeWeek": 700,
     "timeMonth": 693,
     "timeYear": 733,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 1
+    }
   },
   {
     "name": "McDermotts",
     "url": "https://www.mcdermotts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -209,7 +211,9 @@
     "timeWeek": 737,
     "timeMonth": 784,
     "timeYear": 809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   },
   {
     "name": "INCA",
@@ -318,18 +322,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.de.ico",
     "slug": "withers-and-rogers-germany",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "44.02%",
-    "uptimeWeek": "92.00%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.66%",
+    "uptimeDay": "19.91%",
+    "uptimeWeek": "88.56%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "99.66%",
     "time": 1275,
     "timeDay": 958,
     "timeWeek": 1054,
     "timeMonth": 1192,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2025-08-13": 7,
+      "2025-08-13": 354,
       "2025-08-12": 799,
       "2025-03-07": 89,
       "2025-02-21": 29
