@@ -180,19 +180,19 @@
     "url": "https://kitaid.net",
     "icon": "https://icons.duckduckgo.com/ip3/kitaid.net.ico",
     "slug": "kit-aid",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 733,
-    "timeDay": 798,
-    "timeWeek": 705,
-    "timeMonth": 694,
-    "timeYear": 733,
+    "time": 732,
+    "timeDay": 721,
+    "timeWeek": 683,
+    "timeMonth": 688,
+    "timeYear": 732,
     "dailyMinutesDown": {
-      "2025-08-13": 1
+      "2025-08-13": 8
     }
   },
   {
@@ -200,19 +200,19 @@
     "url": "https://www.mcdermotts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 808,
-    "timeDay": 904,
-    "timeWeek": 739,
-    "timeMonth": 781,
+    "timeDay": 829,
+    "timeWeek": 725,
+    "timeMonth": 776,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 8
     }
   },
   {
@@ -323,9 +323,9 @@
     "slug": "withers-and-rogers-germany",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "3.42%",
-    "uptimeWeek": "86.20%",
-    "uptimeMonth": "96.83%",
+    "uptimeDay": "2.88%",
+    "uptimeWeek": "86.13%",
+    "uptimeMonth": "96.81%",
     "uptimeYear": "99.60%",
     "time": 1275,
     "timeDay": 958,
@@ -333,7 +333,7 @@
     "timeMonth": 1192,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2025-08-13": 592,
+      "2025-08-13": 600,
       "2025-08-12": 799,
       "2025-03-07": 89,
       "2025-02-21": 29
