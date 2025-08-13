@@ -180,11 +180,11 @@
     "url": "https://kitaid.net",
     "icon": "https://icons.duckduckgo.com/ip3/kitaid.net.ico",
     "slug": "kit-aid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 732,
     "timeDay": 769,
@@ -192,7 +192,7 @@
     "timeMonth": 689,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2025-08-13": 10
+      "2025-08-13": 1
     }
   },
   {
@@ -200,11 +200,11 @@
     "url": "https://www.mcdermotts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 808,
     "timeDay": 910,
@@ -212,7 +212,7 @@
     "timeMonth": 778,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2025-08-13": 10
+      "2025-08-13": 0
     }
   },
   {
@@ -322,18 +322,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.de.ico",
     "slug": "withers-and-rogers-germany",
     "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "19.23%",
-    "uptimeWeek": "88.46%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.64%",
+    "uptimeDay": "14.22%",
+    "uptimeWeek": "87.75%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "99.64%",
     "time": 1275,
     "timeDay": 958,
     "timeWeek": 1054,
     "timeMonth": 1192,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2025-08-13": 364,
+      "2025-08-13": 436,
       "2025-08-12": 799,
       "2025-03-07": 89,
       "2025-02-21": 29
