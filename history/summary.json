@@ -4,18 +4,20 @@
     "url": "https://weareswitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/weareswitch.com.ico",
     "slug": "switch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 447,
-    "timeWeek": 563,
-    "timeMonth": 553,
+    "timeDay": 542,
+    "timeWeek": 573,
+    "timeMonth": 556,
     "timeYear": 534,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-06": 1
+    }
   },
   {
     "name": "Affinity Water",
@@ -164,18 +166,20 @@
     "url": "https://middlelevel.gov.uk",
     "icon": "https://icons.duckduckgo.com/ip3/middlelevel.gov.uk.ico",
     "slug": "middle-level",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 543,
-    "timeWeek": 835,
-    "timeMonth": 800,
-    "timeYear": 851,
-    "dailyMinutesDown": {}
+    "time": 850,
+    "timeDay": 576,
+    "timeWeek": 807,
+    "timeMonth": 794,
+    "timeYear": 850,
+    "dailyMinutesDown": {
+      "2025-09-06": 1
+    }
   },
   {
     "name": "KitAid",
@@ -200,10 +204,10 @@
     "url": "https://www.mcdermotts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 807,
@@ -211,7 +215,9 @@
     "timeWeek": 862,
     "timeMonth": 780,
     "timeYear": 807,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-06": 1
+    }
   },
   {
     "name": "INCA",
