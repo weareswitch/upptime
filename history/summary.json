@@ -6,18 +6,16 @@
     "slug": "switch",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 516,
     "timeWeek": 560,
     "timeMonth": 553,
     "timeYear": 534,
-    "dailyMinutesDown": {
-      "2025-09-06": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Affinity Water",
@@ -168,18 +166,16 @@
     "slug": "middle-level",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 849,
     "timeDay": 599,
     "timeWeek": 789,
     "timeMonth": 789,
     "timeYear": 849,
-    "dailyMinutesDown": {
-      "2025-09-06": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KitAid",
@@ -206,18 +202,16 @@
     "slug": "mc-dermotts",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 807,
     "timeDay": 692,
     "timeWeek": 860,
     "timeMonth": 782,
     "timeYear": 807,
-    "dailyMinutesDown": {
-      "2025-09-06": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "INCA",
@@ -406,16 +400,16 @@
     "url": "https://www.twistub.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.twistub.co.uk.ico",
     "slug": "twistub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.69%",
+    "uptimeDay": "97.66%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.86%",
     "time": 529,
-    "timeDay": 370,
-    "timeWeek": 445,
-    "timeMonth": 817,
+    "timeDay": 365,
+    "timeWeek": 435,
+    "timeMonth": 808,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2025-09-06": 33,
