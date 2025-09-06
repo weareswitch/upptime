@@ -4,19 +4,19 @@
     "url": "https://weareswitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/weareswitch.com.ico",
     "slug": "switch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 542,
-    "timeWeek": 573,
-    "timeMonth": 556,
+    "timeDay": 516,
+    "timeWeek": 560,
+    "timeMonth": 553,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2025-09-06": 1
+      "2025-09-06": 12
     }
   },
   {
@@ -166,19 +166,19 @@
     "url": "https://middlelevel.gov.uk",
     "icon": "https://icons.duckduckgo.com/ip3/middlelevel.gov.uk.ico",
     "slug": "middle-level",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 576,
-    "timeWeek": 807,
-    "timeMonth": 794,
-    "timeYear": 850,
+    "time": 849,
+    "timeDay": 599,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2025-09-06": 1
+      "2025-09-06": 12
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://www.mcdermotts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 807,
-    "timeDay": 538,
-    "timeWeek": 862,
-    "timeMonth": 780,
+    "timeDay": 692,
+    "timeWeek": 860,
+    "timeMonth": 782,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2025-09-06": 1
+      "2025-09-06": 11
     }
   },
   {
