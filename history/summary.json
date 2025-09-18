@@ -343,10 +343,10 @@
     "url": "https://www.wrrenewals.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wrrenewals.com.ico",
     "slug": "withers-and-rogers-renewals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2137,
@@ -355,6 +355,7 @@
     "timeMonth": 2539,
     "timeYear": 2137,
     "dailyMinutesDown": {
+      "2025-09-18": 1,
       "2025-03-07": 89,
       "2025-02-21": 29
     }
@@ -402,9 +403,9 @@
     "slug": "twistub",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.87%",
     "time": 521,
     "timeDay": 391,
@@ -412,7 +413,6 @@
     "timeMonth": 433,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2025-09-18": 14,
       "2025-09-06": 33,
       "2025-08-25": 76,
       "2025-08-22": 75,
