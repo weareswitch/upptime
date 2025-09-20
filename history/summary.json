@@ -184,19 +184,19 @@
     "url": "https://kitaid.net",
     "icon": "https://icons.duckduckgo.com/ip3/kitaid.net.ico",
     "slug": "kit-aid",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 735,
-    "timeDay": 822,
-    "timeWeek": 769,
-    "timeMonth": 773,
+    "timeDay": 745,
+    "timeWeek": 749,
+    "timeMonth": 768,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2025-09-20": 1
+      "2025-09-20": 13
     }
   },
   {
