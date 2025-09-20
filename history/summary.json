@@ -184,18 +184,20 @@
     "url": "https://kitaid.net",
     "icon": "https://icons.duckduckgo.com/ip3/kitaid.net.ico",
     "slug": "kit-aid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 735,
-    "timeDay": 797,
-    "timeWeek": 758,
-    "timeMonth": 771,
+    "timeDay": 822,
+    "timeWeek": 769,
+    "timeMonth": 773,
     "timeYear": 735,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-20": 1
+    }
   },
   {
     "name": "McDermotts",
@@ -222,9 +224,9 @@
     "slug": "inca",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 412,
     "timeDay": 585,
@@ -232,7 +234,6 @@
     "timeMonth": 411,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2025-09-20": 14,
       "2024-11-26": 625,
       "2024-11-25": 239
     }
