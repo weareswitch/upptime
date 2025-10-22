@@ -184,19 +184,19 @@
     "url": "https://kitaid.net",
     "icon": "https://icons.duckduckgo.com/ip3/kitaid.net.ico",
     "slug": "kit-aid",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 578,
-    "timeWeek": 716,
-    "timeMonth": 718,
-    "timeYear": 732,
+    "time": 733,
+    "timeDay": 702,
+    "timeWeek": 742,
+    "timeMonth": 725,
+    "timeYear": 733,
     "dailyMinutesDown": {
-      "2025-10-22": 1
+      "2025-10-22": 9
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://www.mcdermotts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 803,
-    "timeDay": 693,
-    "timeWeek": 793,
-    "timeMonth": 775,
-    "timeYear": 803,
+    "time": 805,
+    "timeDay": 921,
+    "timeWeek": 858,
+    "timeMonth": 794,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2025-10-22": 1
+      "2025-10-22": 9
     }
   },
   {
@@ -306,9 +306,9 @@
     "slug": "withers-and-rogers-france",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 1623,
     "timeDay": 1780,
@@ -316,7 +316,7 @@
     "timeMonth": 1868,
     "timeYear": 1623,
     "dailyMinutesDown": {
-      "2025-10-22": 1,
+      "2025-10-22": 10,
       "2025-03-07": 89,
       "2025-02-21": 30
     }
@@ -371,19 +371,19 @@
     "url": "https://screen4academy.org",
     "icon": "https://icons.duckduckgo.com/ip3/screen4academy.org.ico",
     "slug": "screen4",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 713,
-    "timeDay": 561,
-    "timeWeek": 702,
-    "timeMonth": 713,
-    "timeYear": 713,
+    "time": 721,
+    "timeDay": 1479,
+    "timeWeek": 993,
+    "timeMonth": 794,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-10-22": 1
+      "2025-10-22": 9
     }
   },
   {
