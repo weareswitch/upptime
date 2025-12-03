@@ -75,7 +75,7 @@
     "timeDay": 720,
     "timeWeek": 903,
     "timeMonth": 889,
-    "timeYear": 915,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2025-06-09": 45,
       "2025-06-04": 114
@@ -96,7 +96,7 @@
     "timeDay": 361,
     "timeWeek": 529,
     "timeMonth": 530,
-    "timeYear": 561,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2025-08-21": 34,
       "2025-08-20": 95,
@@ -118,7 +118,7 @@
     "timeDay": 653,
     "timeWeek": 695,
     "timeMonth": 653,
-    "timeYear": 681,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2025-06-04": 65
     }
@@ -138,7 +138,7 @@
     "timeDay": 736,
     "timeWeek": 838,
     "timeMonth": 787,
-    "timeYear": 724,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2025-08-05": 53
     }
@@ -158,7 +158,7 @@
     "timeDay": 524,
     "timeWeek": 787,
     "timeMonth": 873,
-    "timeYear": 752,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 280,
     "timeWeek": 362,
     "timeMonth": 431,
-    "timeYear": 405,
+    "timeYear": 406,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 1162,
     "timeWeek": 1370,
     "timeMonth": 1728,
-    "timeYear": 1373,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2025-02-04": 114
     }
@@ -268,7 +268,7 @@
     "timeDay": 1225,
     "timeWeek": 1393,
     "timeMonth": 1453,
-    "timeYear": 922,
+    "timeYear": 924,
     "dailyMinutesDown": {}
   },
   {
@@ -286,7 +286,7 @@
     "timeDay": 683,
     "timeWeek": 862,
     "timeMonth": 803,
-    "timeYear": 1202,
+    "timeYear": 1201,
     "dailyMinutesDown": {
       "2025-10-28": 256,
       "2025-03-07": 90,
@@ -302,7 +302,7 @@
     "uptime": "96.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.38%",
+    "uptimeMonth": "94.46%",
     "uptimeYear": "96.26%",
     "time": 1675,
     "timeDay": 1819,
@@ -344,7 +344,7 @@
     "timeDay": 2153,
     "timeWeek": 2580,
     "timeMonth": 2551,
-    "timeYear": 1660,
+    "timeYear": 1661,
     "dailyMinutesDown": {
       "2025-10-28": 284,
       "2025-08-14": 923,
@@ -369,7 +369,7 @@
     "timeDay": 2378,
     "timeWeek": 2448,
     "timeMonth": 2643,
-    "timeYear": 2248,
+    "timeYear": 2250,
     "dailyMinutesDown": {
       "2025-10-28": 224,
       "2025-03-07": 89,
@@ -417,19 +417,19 @@
     "url": "https://www.twistub.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.twistub.co.uk.ico",
     "slug": "twistub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.80%",
     "time": 503,
-    "timeDay": 476,
-    "timeWeek": 449,
-    "timeMonth": 465,
+    "timeDay": 458,
+    "timeWeek": 446,
+    "timeMonth": 464,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-12-03": 27,
+      "2025-12-03": 19,
       "2025-12-02": 46,
       "2025-12-01": 16,
       "2025-11-30": 16,
