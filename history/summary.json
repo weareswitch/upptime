@@ -201,10 +201,10 @@
     "url": "https://www.mcdermotts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 812,
@@ -212,7 +212,9 @@
     "timeWeek": 893,
     "timeMonth": 883,
     "timeYear": 806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-17": 1
+    }
   },
   {
     "name": "INCA",
@@ -275,12 +277,12 @@
     "slug": "withers-and-rogers",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "88.35%",
+    "uptimeDay": "96.44%",
     "uptimeWeek": "98.24%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.89%",
     "time": 1155,
-    "timeDay": 1605,
+    "timeDay": 1452,
     "timeWeek": 1323,
     "timeMonth": 1016,
     "timeYear": 1094,
