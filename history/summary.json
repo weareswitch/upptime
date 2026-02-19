@@ -237,19 +237,19 @@
     "url": "https://www.mila.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mila.co.uk.ico",
     "slug": "mila",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1394,
-    "timeDay": 2055,
-    "timeWeek": 1761,
-    "timeMonth": 1657,
-    "timeYear": 1557,
+    "time": 1395,
+    "timeDay": 1889,
+    "timeWeek": 1757,
+    "timeMonth": 1659,
+    "timeYear": 1558,
     "dailyMinutesDown": {
-      "2026-02-19": 1
+      "2026-02-19": 7
     }
   },
   {
