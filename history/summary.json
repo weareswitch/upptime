@@ -239,18 +239,16 @@
     "slug": "mila",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1395,
     "timeDay": 1889,
     "timeWeek": 1757,
     "timeMonth": 1659,
     "timeYear": 1558,
-    "dailyMinutesDown": {
-      "2026-02-19": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mila Ireland",
