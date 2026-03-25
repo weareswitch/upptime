@@ -4,11 +4,11 @@
     "url": "https://weareswitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/weareswitch.com.ico",
     "slug": "switch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 546,
     "timeDay": 645,
@@ -16,6 +16,7 @@
     "timeMonth": 563,
     "timeYear": 555,
     "dailyMinutesDown": {
+      "2026-03-25": 3,
       "2025-09-20": 16
     }
   },
@@ -117,11 +118,11 @@
     "url": "https://builduk.org",
     "icon": "https://icons.duckduckgo.com/ip3/builduk.org.ico",
     "slug": "build-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 750,
     "timeDay": 835,
@@ -129,6 +130,7 @@
     "timeMonth": 882,
     "timeYear": 773,
     "dailyMinutesDown": {
+      "2026-03-25": 3,
       "2025-08-05": 53
     }
   },
@@ -137,10 +139,10 @@
     "url": "https://opendoors.construction",
     "icon": "https://icons.duckduckgo.com/ip3/opendoors.construction.ico",
     "slug": "open-doors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 798,
@@ -148,7 +150,9 @@
     "timeWeek": 1414,
     "timeMonth": 1011,
     "timeYear": 819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-25": 1
+    }
   },
   {
     "name": "Middle Level",
@@ -229,13 +233,13 @@
     "slug": "withers-and-rogers",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "92.22%",
-    "uptimeWeek": "97.90%",
+    "uptimeDay": "94.08%",
+    "uptimeWeek": "97.92%",
     "uptimeMonth": "97.44%",
     "uptimeYear": "99.64%",
     "time": 1287,
-    "timeDay": 1233,
-    "timeWeek": 1957,
+    "timeDay": 1278,
+    "timeWeek": 1938,
     "timeMonth": 1663,
     "timeYear": 1260,
     "dailyMinutesDown": {
@@ -318,13 +322,13 @@
     "slug": "withers-and-rogers-germany",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "92.20%",
-    "uptimeWeek": "97.90%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "97.92%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "99.22%",
     "time": 1794,
-    "timeDay": 1395,
-    "timeWeek": 1891,
+    "timeDay": 1464,
+    "timeWeek": 1874,
     "timeMonth": 1817,
     "timeYear": 1944,
     "dailyMinutesDown": {
