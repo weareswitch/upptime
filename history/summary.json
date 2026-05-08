@@ -203,18 +203,20 @@
     "url": "https://www.inca-ltd.org.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.inca-ltd.org.uk.ico",
     "slug": "inca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 447,
-    "timeDay": 705,
-    "timeWeek": 660,
-    "timeMonth": 561,
-    "timeYear": 469,
-    "dailyMinutesDown": {}
+    "timeDay": 505,
+    "timeWeek": 616,
+    "timeMonth": 553,
+    "timeYear": 468,
+    "dailyMinutesDown": {
+      "2026-05-08": 1
+    }
   },
   {
     "name": "Withers & Rogers",
