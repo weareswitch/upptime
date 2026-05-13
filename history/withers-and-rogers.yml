@@ -1,7 +1,7 @@
 url: https://www.withersrogers.com
-status: up
-code: 200
-responseTime: 2058
-lastUpdated: 2026-05-12T23:22:05.176Z
+status: down
+code: 401
+responseTime: 385
+lastUpdated: 2026-05-13T17:41:38.349Z
 startTime: 2024-11-24T23:59:29.498Z
 generator: Upptime <https://github.com/upptime/upptime>
