@@ -14,7 +14,7 @@
     "timeDay": 584,
     "timeWeek": 529,
     "timeMonth": 524,
-    "timeYear": 549,
+    "timeYear": 550,
     "dailyMinutesDown": {
       "2025-09-20": 16,
       "2026-03-25": 25
@@ -53,7 +53,7 @@
     "timeDay": 1065,
     "timeWeek": 959,
     "timeMonth": 1088,
-    "timeYear": 933,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2025-06-09": 45
     }
@@ -114,7 +114,7 @@
     "timeDay": 852,
     "timeWeek": 784,
     "timeMonth": 768,
-    "timeYear": 781,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2025-08-05": 53,
       "2026-03-25": 24
@@ -219,17 +219,17 @@
     "url": "https://www.withersrogers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.com.ico",
     "slug": "withers-and-rogers",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "61.05%",
-    "uptimeWeek": "82.44%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "99.14%",
-    "time": 1349,
-    "timeDay": 1118,
-    "timeWeek": 1303,
-    "timeMonth": 1449,
-    "timeYear": 1330,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "59.15%",
+    "uptimeWeek": "82.16%",
+    "uptimeMonth": "94.02%",
+    "uptimeYear": "99.13%",
+    "time": 1353,
+    "timeDay": 1633,
+    "timeWeek": 1402,
+    "timeMonth": 1493,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2026-03-18": 32,
       "2026-03-19": 19,
@@ -282,7 +282,7 @@
       "2026-06-02": 226,
       "2026-06-03": 391,
       "2026-06-04": 402,
-      "2026-06-05": 545
+      "2026-06-05": 574
     }
   },
   {
@@ -290,17 +290,17 @@
     "url": "https://www.withersrogers.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.fr.ico",
     "slug": "withers-and-rogers-france",
-    "status": "down",
+    "status": "up",
     "uptime": "97.01%",
-    "uptimeDay": "61.12%",
-    "uptimeWeek": "82.48%",
-    "uptimeMonth": "94.10%",
+    "uptimeDay": "59.21%",
+    "uptimeWeek": "82.19%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "95.45%",
-    "time": 1697,
-    "timeDay": 1118,
-    "timeWeek": 1438,
-    "timeMonth": 1527,
-    "timeYear": 1739,
+    "time": 1698,
+    "timeDay": 1275,
+    "timeWeek": 1452,
+    "timeMonth": 1533,
+    "timeYear": 1741,
     "dailyMinutesDown": {
       "2025-11-05": 733,
       "2025-11-04": 1440,
@@ -363,7 +363,7 @@
       "2026-06-02": 225,
       "2026-06-03": 390,
       "2026-06-04": 400,
-      "2026-06-05": 544
+      "2026-06-05": 573
     }
   },
   {
@@ -371,17 +371,17 @@
     "url": "https://www.withersrogers.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.de.ico",
     "slug": "withers-and-rogers-germany",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "61.22%",
-    "uptimeWeek": "82.51%",
-    "uptimeMonth": "94.11%",
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "59.29%",
+    "uptimeWeek": "82.23%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.14%",
-    "time": 1770,
-    "timeDay": 1147,
-    "timeWeek": 1423,
-    "timeMonth": 1604,
-    "timeYear": 1919,
+    "time": 1772,
+    "timeDay": 1301,
+    "timeWeek": 1437,
+    "timeMonth": 1609,
+    "timeYear": 1921,
     "dailyMinutesDown": {
       "2026-03-15": 18,
       "2026-03-16": 27,
@@ -436,7 +436,7 @@
       "2026-06-02": 225,
       "2026-06-03": 389,
       "2026-06-04": 400,
-      "2026-06-05": 542
+      "2026-06-05": 571
     }
   },
   {
@@ -444,17 +444,17 @@
     "url": "https://www.wrrenewals.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wrrenewals.com.ico",
     "slug": "withers-and-rogers-renewals",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "61.30%",
-    "uptimeWeek": "82.55%",
-    "uptimeMonth": "94.16%",
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "59.34%",
+    "uptimeWeek": "82.27%",
+    "uptimeMonth": "94.09%",
     "uptimeYear": "98.93%",
-    "time": 2184,
-    "timeDay": 970,
-    "timeWeek": 1391,
+    "time": 2182,
+    "timeDay": 1066,
+    "timeWeek": 1392,
     "timeMonth": 1485,
-    "timeYear": 2156,
+    "timeYear": 2154,
     "dailyMinutesDown": {
       "2025-10-28": 224,
       "2026-04-23": 608,
@@ -483,7 +483,7 @@
       "2026-06-02": 225,
       "2026-06-03": 389,
       "2026-06-04": 399,
-      "2026-06-05": 542
+      "2026-06-05": 570
     }
   },
   {
@@ -501,7 +501,7 @@
     "timeDay": 643,
     "timeWeek": 646,
     "timeMonth": 634,
-    "timeYear": 737,
+    "timeYear": 738,
     "dailyMinutesDown": {}
   },
   {
