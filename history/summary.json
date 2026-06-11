@@ -217,16 +217,16 @@
     "url": "https://www.withersrogers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.com.ico",
     "slug": "withers-and-rogers",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "84.30%",
-    "uptimeMonth": "92.83%",
-    "uptimeYear": "99.09%",
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "87.22%",
+    "uptimeWeek": "83.72%",
+    "uptimeMonth": "92.70%",
+    "uptimeYear": "99.08%",
     "time": 1354,
-    "timeDay": 1184,
-    "timeWeek": 1417,
-    "timeMonth": 1452,
+    "timeDay": 1408,
+    "timeWeek": 1427,
+    "timeMonth": 1456,
     "timeYear": 1341,
     "dailyMinutesDown": {
       "2026-03-27": 54,
@@ -278,7 +278,7 @@
       "2026-06-08": 73,
       "2026-06-09": 129,
       "2026-06-10": 128,
-      "2026-06-11": 4
+      "2026-06-11": 61
     }
   },
   {
@@ -286,16 +286,16 @@
     "url": "https://www.withersrogers.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.fr.ico",
     "slug": "withers-and-rogers-france",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "84.37%",
-    "uptimeMonth": "92.86%",
-    "uptimeYear": "99.08%",
-    "time": 1697,
-    "timeDay": 1207,
-    "timeWeek": 1409,
-    "timeMonth": 1490,
+    "uptimeDay": "87.26%",
+    "uptimeWeek": "83.80%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "99.07%",
+    "time": 1698,
+    "timeDay": 1400,
+    "timeWeek": 1415,
+    "timeMonth": 1492,
     "timeYear": 1730,
     "dailyMinutesDown": {
       "2026-03-26": 52,
@@ -348,7 +348,7 @@
       "2026-06-08": 73,
       "2026-06-09": 129,
       "2026-06-10": 127,
-      "2026-06-11": 4
+      "2026-06-11": 61
     }
   },
   {
@@ -356,16 +356,16 @@
     "url": "https://www.withersrogers.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.de.ico",
     "slug": "withers-and-rogers-germany",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "84.46%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "99.08%",
-    "time": 1776,
-    "timeDay": 1239,
-    "timeWeek": 1417,
-    "timeMonth": 1569,
+    "uptimeDay": "87.29%",
+    "uptimeWeek": "83.89%",
+    "uptimeMonth": "92.75%",
+    "uptimeYear": "99.07%",
+    "time": 1777,
+    "timeDay": 1458,
+    "timeWeek": 1426,
+    "timeMonth": 1572,
     "timeYear": 1909,
     "dailyMinutesDown": {
       "2026-03-26": 52,
@@ -418,7 +418,7 @@
       "2026-06-08": 73,
       "2026-06-09": 129,
       "2026-06-10": 127,
-      "2026-06-11": 3
+      "2026-06-11": 61
     }
   },
   {
@@ -426,17 +426,17 @@
     "url": "https://www.wrrenewals.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wrrenewals.com.ico",
     "slug": "withers-and-rogers-renewals",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "84.54%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "98.81%",
-    "time": 2085,
-    "timeDay": 1003,
-    "timeWeek": 1198,
-    "timeMonth": 1399,
-    "timeYear": 2101,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "87.32%",
+    "uptimeWeek": "83.97%",
+    "uptimeMonth": "92.82%",
+    "uptimeYear": "98.80%",
+    "time": 2086,
+    "timeDay": 1323,
+    "timeWeek": 1225,
+    "timeMonth": 1409,
+    "timeYear": 2102,
     "dailyMinutesDown": {
       "2025-10-28": 224,
       "2026-04-23": 608,
@@ -471,7 +471,7 @@
       "2026-06-08": 72,
       "2026-06-09": 129,
       "2026-06-10": 125,
-      "2026-06-11": 3
+      "2026-06-11": 61
     }
   },
   {
