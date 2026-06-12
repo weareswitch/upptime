@@ -53,7 +53,7 @@
     "timeDay": 1084,
     "timeWeek": 983,
     "timeMonth": 1099,
-    "timeYear": 936,
+    "timeYear": 935,
     "dailyMinutesDown": {}
   },
   {
@@ -153,7 +153,7 @@
     "timeDay": 761,
     "timeWeek": 809,
     "timeMonth": 863,
-    "timeYear": 850,
+    "timeYear": 851,
     "dailyMinutesDown": {}
   },
   {
@@ -217,16 +217,16 @@
     "url": "https://www.withersrogers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.com.ico",
     "slug": "withers-and-rogers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "88.31%",
-    "uptimeWeek": "90.30%",
-    "uptimeMonth": "92.05%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "87.49%",
+    "uptimeWeek": "90.28%",
+    "uptimeMonth": "91.98%",
+    "uptimeYear": "99.04%",
     "time": 1352,
-    "timeDay": 1416,
-    "timeWeek": 1533,
-    "timeMonth": 1441,
+    "timeDay": 1336,
+    "timeWeek": 1430,
+    "timeMonth": 1445,
     "timeYear": 1340,
     "dailyMinutesDown": {
       "2026-03-31": 41,
@@ -277,7 +277,7 @@
       "2026-06-09": 129,
       "2026-06-10": 128,
       "2026-06-11": 196,
-      "2026-06-12": 150
+      "2026-06-12": 180
     }
   },
   {
@@ -285,16 +285,16 @@
     "url": "https://www.withersrogers.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.fr.ico",
     "slug": "withers-and-rogers-france",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "88.33%",
-    "uptimeWeek": "90.36%",
-    "uptimeMonth": "92.08%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "87.52%",
+    "uptimeWeek": "90.35%",
+    "uptimeMonth": "92.01%",
+    "uptimeYear": "99.04%",
     "time": 1695,
-    "timeDay": 1460,
-    "timeWeek": 1478,
-    "timeMonth": 1476,
+    "timeDay": 1371,
+    "timeWeek": 1473,
+    "timeMonth": 1480,
     "timeYear": 1724,
     "dailyMinutesDown": {
       "2026-03-30": 50,
@@ -346,7 +346,7 @@
       "2026-06-09": 129,
       "2026-06-10": 127,
       "2026-06-11": 194,
-      "2026-06-12": 150
+      "2026-06-12": 180
     }
   },
   {
@@ -354,16 +354,16 @@
     "url": "https://www.withersrogers.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.de.ico",
     "slug": "withers-and-rogers-germany",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "88.35%",
-    "uptimeWeek": "90.43%",
-    "uptimeMonth": "92.11%",
-    "uptimeYear": "99.05%",
-    "time": 1779,
-    "timeDay": 1481,
-    "timeWeek": 1518,
-    "timeMonth": 1553,
+    "uptimeDay": "87.54%",
+    "uptimeWeek": "90.42%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "99.04%",
+    "time": 1780,
+    "timeDay": 1398,
+    "timeWeek": 1515,
+    "timeMonth": 1556,
     "timeYear": 1902,
     "dailyMinutesDown": {
       "2026-03-30": 50,
@@ -415,7 +415,7 @@
       "2026-06-09": 129,
       "2026-06-10": 127,
       "2026-06-11": 194,
-      "2026-06-12": 150
+      "2026-06-12": 180
     }
   },
   {
@@ -423,17 +423,17 @@
     "url": "https://www.wrrenewals.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wrrenewals.com.ico",
     "slug": "withers-and-rogers-renewals",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "88.37%",
-    "uptimeWeek": "90.50%",
-    "uptimeMonth": "92.17%",
-    "uptimeYear": "98.75%",
-    "time": 2083,
-    "timeDay": 1356,
-    "timeWeek": 1294,
-    "timeMonth": 1392,
-    "timeYear": 2085,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "87.56%",
+    "uptimeWeek": "90.48%",
+    "uptimeMonth": "92.10%",
+    "uptimeYear": "98.74%",
+    "time": 2086,
+    "timeDay": 1272,
+    "timeWeek": 1327,
+    "timeMonth": 1403,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2025-10-28": 224,
       "2026-04-23": 608,
@@ -469,7 +469,7 @@
       "2026-06-09": 129,
       "2026-06-10": 125,
       "2026-06-11": 194,
-      "2026-06-12": 149
+      "2026-06-12": 179
     }
   },
   {
@@ -505,7 +505,7 @@
     "timeDay": 187,
     "timeWeek": 346,
     "timeMonth": 361,
-    "timeYear": 376,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   }
 ]
