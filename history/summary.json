@@ -13,7 +13,7 @@
     "time": 547,
     "timeDay": 609,
     "timeWeek": 506,
-    "timeMonth": 529,
+    "timeMonth": 535,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-09-20": 16,
@@ -34,7 +34,7 @@
     "time": 654,
     "timeDay": 588,
     "timeWeek": 500,
-    "timeMonth": 599,
+    "timeMonth": 601,
     "timeYear": 645,
     "dailyMinutesDown": {}
   },
@@ -52,8 +52,8 @@
     "time": 931,
     "timeDay": 994,
     "timeWeek": 861,
-    "timeMonth": 1069,
-    "timeYear": 934,
+    "timeMonth": 1076,
+    "timeYear": 935,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +70,7 @@
     "time": 575,
     "timeDay": 827,
     "timeWeek": 694,
-    "timeMonth": 662,
+    "timeMonth": 667,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2025-08-21": 34,
@@ -91,7 +91,7 @@
     "time": 685,
     "timeDay": 722,
     "timeWeek": 614,
-    "timeMonth": 669,
+    "timeMonth": 671,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2025-12-17": 28
@@ -111,7 +111,7 @@
     "time": 760,
     "timeDay": 850,
     "timeWeek": 769,
-    "timeMonth": 763,
+    "timeMonth": 767,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2025-08-05": 53,
@@ -132,7 +132,7 @@
     "time": 801,
     "timeDay": 649,
     "timeWeek": 709,
-    "timeMonth": 718,
+    "timeMonth": 719,
     "timeYear": 806,
     "dailyMinutesDown": {
       "2026-03-25": 23
@@ -152,7 +152,7 @@
     "time": 857,
     "timeDay": 1004,
     "timeWeek": 810,
-    "timeMonth": 857,
+    "timeMonth": 864,
     "timeYear": 848,
     "dailyMinutesDown": {}
   },
@@ -170,7 +170,7 @@
     "time": 755,
     "timeDay": 1123,
     "timeWeek": 911,
-    "timeMonth": 954,
+    "timeMonth": 941,
     "timeYear": 759,
     "dailyMinutesDown": {}
   },
@@ -188,7 +188,7 @@
     "time": 819,
     "timeDay": 1018,
     "timeWeek": 871,
-    "timeMonth": 875,
+    "timeMonth": 883,
     "timeYear": 826,
     "dailyMinutesDown": {}
   },
@@ -206,7 +206,7 @@
     "time": 464,
     "timeDay": 281,
     "timeWeek": 368,
-    "timeMonth": 387,
+    "timeMonth": 391,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2026-05-08": 229
@@ -217,19 +217,18 @@
     "url": "https://www.withersrogers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.com.ico",
     "slug": "withers-and-rogers",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "82.48%",
-    "uptimeWeek": "85.75%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "82.39%",
+    "uptimeWeek": "86.04%",
     "uptimeMonth": "87.89%",
     "uptimeYear": "98.83%",
-    "time": 1347,
-    "timeDay": 1288,
-    "timeWeek": 1253,
-    "timeMonth": 1362,
-    "timeYear": 1335,
+    "time": 1346,
+    "timeDay": 1186,
+    "timeWeek": 1222,
+    "timeMonth": 1354,
+    "timeYear": 1334,
     "dailyMinutesDown": {
-      "2026-04-16": 32,
       "2026-04-17": 64,
       "2026-04-18": 25,
       "2026-04-19": 24,
@@ -276,7 +275,7 @@
       "2026-06-18": 86,
       "2026-06-19": 77,
       "2026-06-20": 71,
-      "2026-06-21": 252
+      "2026-06-21": 253
     }
   },
   {
@@ -284,19 +283,18 @@
     "url": "https://www.withersrogers.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.fr.ico",
     "slug": "withers-and-rogers-france",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "82.52%",
-    "uptimeWeek": "85.78%",
+    "uptimeDay": "82.45%",
+    "uptimeWeek": "86.08%",
     "uptimeMonth": "87.93%",
-    "uptimeYear": "98.83%",
-    "time": 1663,
-    "timeDay": 1375,
-    "timeWeek": 1408,
-    "timeMonth": 1428,
-    "timeYear": 1694,
+    "uptimeYear": "98.84%",
+    "time": 1662,
+    "timeDay": 1263,
+    "timeWeek": 1382,
+    "timeMonth": 1419,
+    "timeYear": 1691,
     "dailyMinutesDown": {
-      "2026-04-16": 32,
       "2026-04-17": 64,
       "2026-04-18": 25,
       "2026-04-19": 24,
@@ -343,7 +341,7 @@
       "2026-06-18": 85,
       "2026-06-19": 77,
       "2026-06-20": 70,
-      "2026-06-21": 252
+      "2026-06-21": 253
     }
   },
   {
@@ -351,19 +349,19 @@
     "url": "https://www.withersrogers.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.de.ico",
     "slug": "withers-and-rogers-germany",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "82.57%",
-    "uptimeWeek": "85.97%",
-    "uptimeMonth": "88.01%",
-    "uptimeYear": "98.83%",
-    "time": 1744,
-    "timeDay": 1390,
-    "timeWeek": 1504,
-    "timeMonth": 1496,
-    "timeYear": 1877,
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "82.51%",
+    "uptimeWeek": "86.26%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "98.84%",
+    "time": 1743,
+    "timeDay": 1277,
+    "timeWeek": 1477,
+    "timeMonth": 1487,
+    "timeYear": 1876,
     "dailyMinutesDown": {
-      "2026-04-16": 76,
+      "2026-04-16": 32,
       "2026-04-17": 64,
       "2026-04-18": 25,
       "2026-04-19": 24,
@@ -410,7 +408,7 @@
       "2026-06-18": 85,
       "2026-06-19": 76,
       "2026-06-20": 70,
-      "2026-06-21": 252
+      "2026-06-21": 253
     }
   },
   {
@@ -418,17 +416,17 @@
     "url": "https://www.wrrenewals.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wrrenewals.com.ico",
     "slug": "withers-and-rogers-renewals",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "82.61%",
-    "uptimeWeek": "85.99%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "86.29%",
     "uptimeMonth": "88.08%",
     "uptimeYear": "98.39%",
-    "time": 2055,
-    "timeDay": 1495,
-    "timeWeek": 1353,
-    "timeMonth": 1351,
-    "timeYear": 1998,
+    "time": 2052,
+    "timeDay": 1370,
+    "timeWeek": 1340,
+    "timeMonth": 1342,
+    "timeYear": 1994,
     "dailyMinutesDown": {
       "2025-10-28": 224,
       "2026-04-23": 608,
@@ -473,7 +471,7 @@
       "2026-06-18": 85,
       "2026-06-19": 75,
       "2026-06-20": 70,
-      "2026-06-21": 251
+      "2026-06-21": 252
     }
   },
   {
@@ -490,7 +488,7 @@
     "time": 726,
     "timeDay": 638,
     "timeWeek": 587,
-    "timeMonth": 621,
+    "timeMonth": 616,
     "timeYear": 732,
     "dailyMinutesDown": {}
   },
@@ -508,8 +506,8 @@
     "time": 369,
     "timeDay": 315,
     "timeWeek": 281,
-    "timeMonth": 352,
-    "timeYear": 372,
+    "timeMonth": 357,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   }
 ]
