@@ -219,9 +219,9 @@
     "slug": "withers-and-rogers",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "87.68%",
-    "uptimeMonth": "88.23%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "87.54%",
+    "uptimeMonth": "88.20%",
     "uptimeYear": "98.83%",
     "time": 1345,
     "timeDay": 1081,
@@ -276,7 +276,7 @@
       "2026-06-19": 77,
       "2026-06-20": 71,
       "2026-06-21": 252,
-      "2026-06-23": 1
+      "2026-06-23": 16
     }
   },
   {
@@ -286,10 +286,10 @@
     "slug": "withers-and-rogers-france",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "87.71%",
-    "uptimeMonth": "88.27%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "87.57%",
+    "uptimeMonth": "88.23%",
+    "uptimeYear": "98.83%",
     "time": 1662,
     "timeDay": 1854,
     "timeWeek": 1383,
@@ -343,7 +343,7 @@
       "2026-06-19": 77,
       "2026-06-20": 70,
       "2026-06-21": 252,
-      "2026-06-23": 1
+      "2026-06-23": 15
     }
   },
   {
@@ -353,10 +353,10 @@
     "slug": "withers-and-rogers-germany",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "88.34%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "87.74%",
+    "uptimeMonth": "88.31%",
+    "uptimeYear": "98.83%",
     "time": 1746,
     "timeDay": 1899,
     "timeWeek": 1449,
@@ -411,7 +411,7 @@
       "2026-06-19": 76,
       "2026-06-20": 70,
       "2026-06-21": 252,
-      "2026-06-23": 1
+      "2026-06-23": 15
     }
   },
   {
@@ -421,9 +421,9 @@
     "slug": "withers-and-rogers-renewals",
     "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "87.91%",
-    "uptimeMonth": "88.41%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "87.77%",
+    "uptimeMonth": "88.38%",
     "uptimeYear": "98.39%",
     "time": 2050,
     "timeDay": 1821,
@@ -475,7 +475,7 @@
       "2026-06-19": 75,
       "2026-06-20": 70,
       "2026-06-21": 251,
-      "2026-06-23": 1
+      "2026-06-23": 15
     }
   },
   {
