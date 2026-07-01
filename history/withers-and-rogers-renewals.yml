@@ -1,7 +1,7 @@
 url: https://www.wrrenewals.com
-status: up
-code: 200
-responseTime: 1781
-lastUpdated: 2026-07-01T03:51:57.416Z
+status: down
+code: 401
+responseTime: 434
+lastUpdated: 2026-07-01T21:18:48.668Z
 startTime: 2024-11-24T23:59:34.600Z
 generator: Upptime <https://github.com/upptime/upptime>
