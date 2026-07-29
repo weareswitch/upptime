@@ -92,7 +92,7 @@
     "timeDay": 829,
     "timeWeek": 825,
     "timeMonth": 747,
-    "timeYear": 671,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2025-12-17": 28
     }
@@ -133,7 +133,7 @@
     "timeDay": 824,
     "timeWeek": 868,
     "timeMonth": 745,
-    "timeYear": 810,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2026-03-25": 23
     }
@@ -171,7 +171,7 @@
     "timeDay": 1129,
     "timeWeek": 1083,
     "timeMonth": 1002,
-    "timeYear": 780,
+    "timeYear": 781,
     "dailyMinutesDown": {}
   },
   {
@@ -219,17 +219,17 @@
     "url": "https://www.withersrogers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.com.ico",
     "slug": "withers-and-rogers",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "94.54%",
-    "uptimeYear": "98.92%",
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "94.42%",
+    "uptimeYear": "98.91%",
     "time": 1355,
-    "timeDay": 1318,
-    "timeWeek": 1628,
-    "timeMonth": 1480,
-    "timeYear": 1361,
+    "timeDay": 1519,
+    "timeWeek": 1641,
+    "timeMonth": 1483,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2026-06-15": 16,
       "2026-06-16": 447,
@@ -269,7 +269,7 @@
       "2026-07-27": 84,
       "2026-07-26": 4,
       "2026-07-28": 96,
-      "2026-07-29": 1
+      "2026-07-29": 51
     }
   },
   {
