@@ -294,19 +294,19 @@
     "url": "https://ballsandboots.org",
     "icon": "https://icons.duckduckgo.com/ip3/ballsandboots.org.ico",
     "slug": "balls-and-boots",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 380,
-    "timeWeek": 357,
+    "timeDay": 367,
+    "timeWeek": 356,
     "timeMonth": 341,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2026-09-07": 1
+      "2026-09-07": 18
     }
   }
 ]
