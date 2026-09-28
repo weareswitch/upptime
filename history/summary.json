@@ -33,7 +33,7 @@
     "time": 631,
     "timeDay": 589,
     "timeWeek": 468,
-    "timeMonth": 539,
+    "timeMonth": 542,
     "timeYear": 600,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 926,
     "timeDay": 942,
     "timeWeek": 835,
-    "timeMonth": 874,
+    "timeMonth": 871,
     "timeYear": 936,
     "dailyMinutesDown": {}
   },
@@ -69,7 +69,7 @@
     "time": 602,
     "timeDay": 840,
     "timeWeek": 619,
-    "timeMonth": 695,
+    "timeMonth": 678,
     "timeYear": 616,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 678,
     "timeDay": 815,
     "timeWeek": 698,
-    "timeMonth": 739,
+    "timeMonth": 742,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2025-12-17": 28,
@@ -148,7 +148,7 @@
     "time": 797,
     "timeDay": 290,
     "timeWeek": 276,
-    "timeMonth": 290,
+    "timeMonth": 291,
     "timeYear": 794,
     "dailyMinutesDown": {}
   },
@@ -204,7 +204,7 @@
     "time": 452,
     "timeDay": 276,
     "timeWeek": 264,
-    "timeMonth": 360,
+    "timeMonth": 361,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2026-05-08": 229
@@ -215,19 +215,19 @@
     "url": "https://www.withersrogers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.com.ico",
     "slug": "withers-and-rogers",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "98.47%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.99%",
-    "time": 1396,
-    "timeDay": 1528,
-    "timeWeek": 1658,
-    "timeMonth": 1710,
-    "timeYear": 1440,
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.00%",
+    "time": 1395,
+    "timeDay": 1346,
+    "timeWeek": 1572,
+    "timeMonth": 1680,
+    "timeYear": 1439,
     "dailyMinutesDown": {
-      "2026-06-19": 77,
+      "2026-06-19": 28,
       "2026-06-20": 71,
       "2026-06-21": 252,
       "2026-06-23": 239,
@@ -270,7 +270,8 @@
       "2026-09-09": 19,
       "2026-09-16": 18,
       "2026-09-26": 27,
-      "2026-09-27": 22
+      "2026-09-27": 22,
+      "2026-09-28": 1
     }
   },
   {
@@ -287,7 +288,7 @@
     "time": 687,
     "timeDay": 460,
     "timeWeek": 306,
-    "timeMonth": 315,
+    "timeMonth": 311,
     "timeYear": 667,
     "dailyMinutesDown": {}
   },
@@ -305,7 +306,7 @@
     "time": 365,
     "timeDay": 324,
     "timeWeek": 272,
-    "timeMonth": 335,
+    "timeMonth": 337,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2026-09-07": 18
