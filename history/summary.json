@@ -4,20 +4,20 @@
     "url": "https://weareswitch.com",
     "icon": "https://icons.duckduckgo.com/ip3/weareswitch.com.ico",
     "slug": "switch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "78.85%",
-    "uptimeWeek": "96.98%",
+    "uptimeDay": "78.77%",
+    "uptimeWeek": "96.97%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.94%",
     "time": 560,
-    "timeDay": 10056,
-    "timeWeek": 2964,
-    "timeMonth": 1156,
+    "timeDay": 6866,
+    "timeWeek": 2688,
+    "timeMonth": 1135,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2026-03-25": 25,
-      "2026-10-20": 305
+      "2026-10-20": 306
     }
   },
   {
@@ -100,20 +100,20 @@
     "url": "https://builduk.org",
     "icon": "https://icons.duckduckgo.com/ip3/builduk.org.ico",
     "slug": "build-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "79.18%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "79.11%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.94%",
-    "time": 815,
-    "timeDay": 831,
-    "timeWeek": 968,
-    "timeMonth": 998,
+    "time": 816,
+    "timeDay": 845,
+    "timeWeek": 955,
+    "timeMonth": 994,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2026-03-25": 24,
-      "2026-10-20": 300
+      "2026-10-20": 301
     }
   },
   {
@@ -184,10 +184,10 @@
     "slug": "mc-dermotts",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "79.80%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "79.62%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.92%",
     "time": 734,
     "timeDay": 9879,
     "timeWeek": 2645,
@@ -195,7 +195,7 @@
     "timeYear": 719,
     "dailyMinutesDown": {
       "2026-07-02": 101,
-      "2026-10-20": 291
+      "2026-10-20": 293
     }
   },
   {
