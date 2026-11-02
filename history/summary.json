@@ -182,21 +182,21 @@
     "url": "https://www.mcdermotts.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.20%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "99.91%",
-    "time": 716,
-    "timeDay": 167,
-    "timeWeek": 210,
-    "timeMonth": 802,
-    "timeYear": 695,
+    "time": 715,
+    "timeDay": 162,
+    "timeWeek": 203,
+    "timeMonth": 783,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2026-07-02": 101,
       "2026-10-20": 352,
-      "2026-11-02": 1
+      "2026-11-02": 9
     }
   },
   {
