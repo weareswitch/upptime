@@ -183,10 +183,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mcdermotts.co.uk.ico",
     "slug": "mc-dermotts",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.18%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.91%",
     "time": 715,
     "timeDay": 162,
@@ -195,8 +195,7 @@
     "timeYear": 693,
     "dailyMinutesDown": {
       "2026-07-02": 101,
-      "2026-10-20": 352,
-      "2026-11-02": 9
+      "2026-10-20": 352
     }
   },
   {
