@@ -224,17 +224,17 @@
     "url": "https://www.withersrogers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.withersrogers.com.ico",
     "slug": "withers-and-rogers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.06%",
-    "time": 1452,
-    "timeDay": 1169,
-    "timeWeek": 1293,
-    "timeMonth": 1900,
-    "timeYear": 1525,
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.05%",
+    "time": 1454,
+    "timeDay": 1405,
+    "timeWeek": 1331,
+    "timeMonth": 1911,
+    "timeYear": 1526,
     "dailyMinutesDown": {
       "2026-06-23": 176,
       "2026-06-24": 380,
@@ -283,7 +283,7 @@
       "2026-11-19": 33,
       "2026-11-20": 16,
       "2026-11-22": 15,
-      "2026-11-26": 19
+      "2026-11-26": 27
     }
   },
   {
